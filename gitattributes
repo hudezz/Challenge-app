@@ -1,0 +1,2 @@
+# Ignore the frontend for language stats so Java shows up
+challenge2-frontend-live/**/* linguist-vendored
