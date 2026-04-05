@@ -1,0 +1,15 @@
+# Ignore Node.js / React junk
+**/node_modules/
+**/dist/
+.env
+
+# Ignore Java / Spring Boot junk
+**/target/
+**/build/
+**/out/
+.gradle/
+*.class
+
+# Ignore IDE settings
+.idea/
+.vscode/
